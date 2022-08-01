@@ -1,3 +1,3 @@
-const name: string = "Aida";
+const name = "Aida";
 
 console.log(`Hello ${name}`);
